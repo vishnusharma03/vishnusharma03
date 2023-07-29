@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishnusharma_3" target="blank"><img src="https://img.shields.io/twitter/follow/vishnusharma_3?logo=twitter&style=for-the-badge" alt="vishnusharma_3" /></a> </p>
 
-- 🔭 I’m currently working on **Developing my first ML Workflow**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently learning **Java & Basics of Computer Science**
 
 - 📫 How to reach me **vishnusharma9677@gmail.com**
 
@@ -28,7 +26,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/vishnusharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/vishnusharma" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/vishnusharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/vishnusharma" /></a></p><br><br>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnusharma03&show_icons=true&locale=en&layout=compact" alt="vishnusharma03" /></p>
 
