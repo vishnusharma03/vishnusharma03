@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishnusharma_3" target="blank"><img src="https://img.shields.io/twitter/follow/vishnusharma_3?logo=twitter&style=for-the-badge" alt="vishnusharma_3" /></a> </p>
 
-- 🔭 I’m currently learning **Java & Basics of Computer Science**
+- 🔭 I’m currently learning **Java, "Activeloop's LangChain & vector databases" & Basics of Computer Science**
 
 - 📫 How to reach me **vishnusharma9677@gmail.com**
 
