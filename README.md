@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/vishnusharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnusharma7" height="30" width="40" /></a>
 <a href="https://kaggle.com/vishnuprabhatsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishnuprabhatsharma" height="30" width="40" /></a>
 <a href="https://instagram.com/vishnusharma_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnusharma_3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vishnusharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishnusharma7" height="30" width="40" /></a>
+<a href="https://youtube.com/@vishnusharma_7?si=eXgVB_rNmGHE9pmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishnusharma7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishnusharma_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnusharma_3" height="30" width="40" /></a>
 </p>
 
